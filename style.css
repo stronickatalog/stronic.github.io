@@ -10,3 +10,7 @@
 section {
   padding-top: 5rem;
 }
+
+.carousel-caption {
+  text-shadow: 2px 2px rgb(0, 0, 0);
+}
